@@ -22,10 +22,7 @@
   "no_spec_change": true,
   "no_spec_change_rationale": "Governance and CI only; landing-page behavior, content, links, and publication are unchanged.",
   "acceptance_criteria": [
-    "Static landing and README checks pass; agents and Trust doctor are healthy; UI",
-    "content",
-    "links",
-    "and publication remain unchanged."
+    "Static landing and README checks pass; agents and Trust doctor are healthy; UI, content, links, and publication remain unchanged."
   ],
   "selected_artifacts": [
     "context",
