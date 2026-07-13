@@ -1,0 +1,21 @@
+{
+  "timestamp": 1783948034,
+  "commit": "152bea3c5cf2a5ea81de556d8764b8634d24944a",
+  "contract_digest": "7997efe14f5387a9d863bf4b3c43a1271fca52cc0fbc04ff8f3ab91d71eb2ab1",
+  "workspace_digest": "f3fb8ba7f770443a9161d10c6a94995dfd759e4ae72a3620b8c2f7d9deeb2a7c",
+  "acceptance_input_digest": "1a2840396cb7d1d81b9831ff3c27b17f1b4a451e0e4a5cf7dcd00d949adeb18d",
+  "passed": true,
+  "commands": [
+    {
+      "command": "test -s index.html",
+      "success": true,
+      "exit_code": 0
+    },
+    {
+      "command": "test -s README.md",
+      "success": true,
+      "exit_code": 0
+    }
+  ],
+  "requirement_ids": []
+}

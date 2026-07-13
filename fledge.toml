@@ -1,0 +1,6 @@
+[tasks]
+landing = "test -s index.html"
+readme = "test -s README.md"
+[lanes.verify]
+description = "Validate the static AlgoChat landing site and repository documentation"
+steps = ["landing", "readme"]
