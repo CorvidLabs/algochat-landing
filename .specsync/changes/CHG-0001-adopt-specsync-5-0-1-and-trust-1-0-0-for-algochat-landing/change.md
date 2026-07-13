@@ -1,6 +1,6 @@
 ---
 id: CHG-0001-adopt-specsync-5-0-1-and-trust-1-0-0-for-algochat-landing
-state: draft
+state: accepted
 type: migration
 base_commit: e803348815901cde49a70aa278271e2a0479ec7b
 ---
@@ -17,10 +17,7 @@ Adopt SpecSync 5.0.1 and Trust 1.0.0 for AlgoChat landing
 
 ## Acceptance Criteria
 
-- Static landing and README checks pass; agents and Trust doctor are healthy; UI
-- content
-- links
-- and publication remain unchanged.
+- Static landing and README checks pass; agents and Trust doctor are healthy; UI, content, links, and publication remain unchanged.
 
 ## No-spec Rationale
 

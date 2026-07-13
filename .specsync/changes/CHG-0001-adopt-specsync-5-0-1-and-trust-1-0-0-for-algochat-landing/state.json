@@ -5,10 +5,10 @@
   "title": "Adopt SpecSync 5.0.1 and Trust 1.0.0 for AlgoChat landing",
   "description": "Adopt SpecSync 5.0.1 and Trust 1.0.0 for AlgoChat landing",
   "kind": "migration",
-  "state": "draft",
+  "state": "accepted",
   "base_commit": "e803348815901cde49a70aa278271e2a0479ec7b",
   "created_at": 1783886909,
-  "updated_at": 1783886916,
+  "updated_at": 1783948160,
   "affected_specs": [],
   "affected_paths": [
     ".github/",
